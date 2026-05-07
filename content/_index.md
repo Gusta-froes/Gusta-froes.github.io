@@ -16,7 +16,7 @@ sections:
         text: Full CV
         url: uploads/resume.pdf
       headings:
-        about: 'about'
+        about: 'About'
         education: ''
         interests: ''
     design:
