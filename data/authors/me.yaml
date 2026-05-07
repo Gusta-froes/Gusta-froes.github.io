@@ -1,5 +1,5 @@
 schema: hugoblox/author/v1
-slug: 1763989575163
+slug: me
 is_owner: true
 name:
   display: Gustavo Fróes
@@ -31,10 +31,8 @@ interests:
 
 education:
   - degree: MSc in Engineering
-    institution: Institut Polytechnique de Paris 
-    start: 2024
-    end: Present
-  - degree: BSc Physics
-    institution: University of Campinas
-    start: 2021
-    end: Present
+    institution: Institut Polytechnique de Paris, France
+    start: 2024 - Present
+  - degree: BSc in Physics
+    institution: University of Campinas (UNICAMP), Brazil
+    start: 2021 - Present
